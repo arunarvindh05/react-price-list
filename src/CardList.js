@@ -37,7 +37,7 @@ export default function CardList({ details }) {
         ))}
       </ul>
       <div class="d-grid">
-        <a href="#" className="btn btn-primary text-uppercase">
+        <a href="/" className="btn btn-primary text-uppercase">
           Button
         </a>
       </div>
